@@ -466,7 +466,7 @@ body {
   background: url("../img/main/decor.png"); }
 
 .main__image {
-  background-size: contain;
+  background-size: contain !important;
 }
 
 .target__header {
